@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "year": "Siglo V a.C. - S. XI",
+    "title": "La Cámara Oscura",
+    "technique": "Predecesor óptico",
+    "description": "Filósofos como Aristóteles y más tarde el óptico Alhacén describieron el principio de proyectar una imagen invertida a través de un pequeño agujero en una habitación oscura. No fijaba la imagen, pero sentó las bases ópticas."
+  },
+  {
+    "id": 2,
+    "year": "1826",
+    "title": "Heliografía",
+    "technique": "Betún de Judea",
+    "description": "Joseph Nicéphore Niépce logra la primera fotografía conservada de la historia: 'Vista desde la ventana en Le Gras'. Requirió un tiempo de exposición de aproximadamente 8 horas."
+  },
+  {
+    "id": 3,
+    "year": "1839",
+    "title": "El Daguerrotipo",
+    "technique": "Plata sobre cobre",
+    "description": "Louis Daguerre perfecciona el proceso reduciendo los tiempos de exposición a minutos. Producía una imagen única, muy detallada, pero frágil y sin posibilidad de hacer copias."
+  },
+  {
+    "id": 4,
+    "year": "1841",
+    "title": "El Calotipo",
+    "technique": "Negativo/Positivo",
+    "description": "William Henry Fox Talbot patenta un sistema que permite obtener múltiples copias positivas a partir de un solo negativo de papel. Es la base de la fotografía analógica moderna."
+  },
+  {
+    "id": 5,
+    "year": "1888",
+    "title": "Cámara Kodak y Rollo",
+    "technique": "Película flexible",
+    "description": "George Eastman lanza la primera cámara Kodak con el lema 'Usted presiona el botón, nosotros hacemos el resto'. Introdujo el rollo de película, masificando la fotografía para aficionados."
+  },
+  {
+    "id": 6,
+    "year": "1895",
+    "title": "El Cinematógrafo",
+    "technique": "Imágenes en movimiento",
+    "description": "Los hermanos Lumière inventan un aparato portátil para grabar y proyectar a 16 cuadros por segundo. La persistencia retiniana permite que la fotografía cuente historias fluidas."
+  },
+  {
+    "id": 7,
+    "year": "1907",
+    "title": "Autochrome (Autocromo)",
+    "technique": "Placas de cristal y almidón",
+    "description": "Los hermanos Lumière comercializan el primer procedimiento fotográfico en color viable. Utilizaba granos de fécula de papa teñidos para filtrar la luz."
+  },
+  {
+    "id": 8,
+    "year": "1947",
+    "title": "Cámara Polaroid",
+    "technique": "Revelado Instantáneo",
+    "description": "Edwin Land presenta la cámara que revela fotografías en 60 segundos. Convierte un proceso de laboratorio químico en una experiencia social, inmediata y tangible."
+  },
+  {
+    "id": 9,
+    "year": "1968",
+    "title": "Earthrise & Satélites",
+    "technique": "Fotografía Espacial",
+    "description": "La tripulación del Apolo 8 captura 'Earthrise', cambiando nuestra perspectiva cósmica. Comienza el mapeo satelital de la Tierra, vital para la cartografía y meteorología moderna."
+  },
+  {
+    "id": 10,
+    "year": "1975",
+    "title": "Primera Cámara Digital",
+    "technique": "Sensor CCD",
+    "description": "Steven Sasson desarrolla el primer prototipo de cámara digital en Kodak. Pesaba 3 kilos, guardaba fotos en cassette y capturaba imágenes de 0.01 megapíxeles."
+  },
+  {
+    "id": 11,
+    "year": "2000",
+    "title": "El Teléfono con Cámara",
+    "technique": "Digital Móvil",
+    "description": "Se lanza en Japón el J-SH04, el primer teléfono móvil con cámara integrada comercialmente exitoso. Comienza la era de la hiper-documentación diaria."
+  },
+  {
+    "id": 12,
+    "year": "Actualidad",
+    "title": "Fotografía Computacional",
+    "technique": "Sensores e Inteligencia Artificial",
+    "description": "Las imágenes ya no solo se capturan; se calculan. Redes neuronales y algoritmos fusionan múltiples tomas al instante para superar las limitaciones físicas de los lentes miniatura."
+  }
+]
