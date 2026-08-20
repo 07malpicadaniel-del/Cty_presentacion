@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Presentation, Clock, BookOpen, Network } from "lucide-react";
+import { Presentation, Clock, BookOpen } from "lucide-react";
 
 export default function Navbar() {
   const pathname = usePathname();
@@ -30,16 +30,6 @@ export default function Navbar() {
           }`}
         >
           <Clock className="w-4 h-4" /> Línea del Tiempo
-        </Link>
-
-        {/* NUEVO: Enlace al Mapa Conceptual */}
-        <Link
-          href="/mapa"
-          className={`px-3 py-1.5 rounded-lg text-sm font-medium flex items-center gap-1.5 transition-colors ${
-            pathname === "/mapa" ? "bg-indigo-600 text-white" : "text-zinc-400 hover:text-white hover:bg-zinc-900"
-          }`}
-        >
-          <Network className="w-4 h-4" /> Mapa Conceptual
         </Link>
 
         <Link
