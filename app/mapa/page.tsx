@@ -1,11 +1,11 @@
 "use client";
 
 import Link from "next/link";
-import { ArrowLeft, Network, Camera, Cpu, Sparkles, Sun, Eye } from "lucide-react";
+import { ArrowLeft, Network, Camera, Cpu, Eye, Sun } from "lucide-react";
 
 export default function MapaConceptualPage() {
   return (
-    <main className="w-full min-h-screen bg-zinc-950 text-white p-6 md:p-12 flex flex-col justify-between">
+    <main className="w-full min-h-screen bg-zinc-950 text-white p-6 md:p-12 pt-28 md:pt-32 flex flex-col justify-between">
       
       {/* Encabezado con Botón de Regreso */}
       <div>
